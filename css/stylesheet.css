@@ -1,0 +1,107 @@
+.clear {
+  clear: left;
+}
+
+
+.top-wrapper {
+  /* width: 100%; */
+  /* height: 300px; */
+  padding: 25% 0 30% 0;
+  background-image: url(../img/adventure-asia-background-733174.jpg);
+  background-size: cover;
+  color:white;
+  text-align: center;
+  margin-bottom: 50px;
+  position: relative;
+}
+
+.home-btn{
+  cursor: pointer;
+}
+
+#arrow a{
+  position: absolute;
+  bottom: 10px;
+  left: 0;
+  right: 0;
+  cursor: pointer;
+  margin: auto;
+  color:white;
+  font-size: 48px;
+}
+
+/* #arrow a:hover{
+  opacity: 0.5;
+} */
+
+.container {
+  width: 100%;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.navbar-brand{
+  letter-spacing: 2px;
+}
+
+/* .navbar-nav > li > a {
+    letter-spacing: 2px;
+  } */
+
+.profile-img img{
+  width: 40%;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
+/* #message-wrapper{
+  text-align: center;
+} */
+
+.profile-img {
+  text-align: center;
+}
+
+h2{
+  font-size: 1.5rem;
+  padding:5px;
+  margin-top: 80px;
+  margin-bottom: 80px;
+  border-bottom: 1px dotted #CCCCCC;
+  border-top: 1px dotted #CCCCCC;
+  text-align: center;
+}
+
+
+.portfolio-img{
+  text-align: center;
+}
+
+.portfolio-img img{
+  width: 80%;
+}
+
+.text-content {
+  font-size: 12px;
+  display: none;
+  padding: 5px 0px;
+  margin-bottom: 15px;
+}
+
+.text-active{
+  display: block;
+}
+
+
+.contact{
+  text-align: right;
+  padding-right:50px;
+}
+
+.fas{
+  padding-right:5px;
+}
+
+.btn{
+  cursor: pointer;
+}
